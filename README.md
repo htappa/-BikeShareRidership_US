@@ -21,7 +21,9 @@ Plotly 2.7.0
 
 ### Data
 Capital Bikeshare. (2018). Capital Bikeshare Trip History Data [Data file]. Retrieved from https://s3.amazonaws.com/capitalbikeshare-data/index.html  
+
 Blue Bikes. (2018). Blue Bikes Comprehensive Trip Histories [Data file]. Retrieved from https://s3.amazonaws.com/hubway-data/index.html  
+  
 Divvy. (2018). Historical trip data available to the public [Data file]. Retrieved from https://www.divvybikes.com/system-data  
 
 ### Using the code
