@@ -1,5 +1,6 @@
 # Bikeshare Ridership in the United States
 
+[![DOI](https://zenodo.org/badge/138086397.svg)](https://zenodo.org/badge/latestdoi/138086397)
 
 ### Authors
 Henry Tappa, M.S.  
